@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\dogumgunumenekaldı\dogumgunumenekaldı\bin\Debug\dogumgunumenekaldı.exe.config
+C:\Users\User\source\repos\dogumgunumenekaldı\dogumgunumenekaldı\bin\Debug\dogumgunumenekaldı.exe
+C:\Users\User\source\repos\dogumgunumenekaldı\dogumgunumenekaldı\bin\Debug\dogumgunumenekaldı.pdb
+C:\Users\User\source\repos\dogumgunumenekaldı\dogumgunumenekaldı\obj\Debug\dogumgunumenekaldı.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\dogumgunumenekaldı\dogumgunumenekaldı\obj\Debug\dogumgunumenekaldı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\dogumgunumenekaldı\dogumgunumenekaldı\obj\Debug\dogumgunumenekaldı.Form1.resources
+C:\Users\User\source\repos\dogumgunumenekaldı\dogumgunumenekaldı\obj\Debug\dogumgunumenekaldı.Properties.Resources.resources
+C:\Users\User\source\repos\dogumgunumenekaldı\dogumgunumenekaldı\obj\Debug\dogumgunumenekaldı.csproj.GenerateResource.cache
+C:\Users\User\source\repos\dogumgunumenekaldı\dogumgunumenekaldı\obj\Debug\dogumgunumenekaldı.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dogumgunumenekaldı\dogumgunumenekaldı\obj\Debug\dogumgunumenekaldı.exe
+C:\Users\User\source\repos\dogumgunumenekaldı\dogumgunumenekaldı\obj\Debug\dogumgunumenekaldı.pdb
